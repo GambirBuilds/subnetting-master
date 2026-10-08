@@ -3,6 +3,7 @@
 **Subnetting Master** is a modern, interactive web application engineered to teach computer network subnetting from absolute beginner to advanced certification (CCNA / University Exam) level.
 
 ---
+<img width="1907" height="844" alt="image" src="https://github.com/user-attachments/assets/8ced4bbe-0f95-48b2-befd-dcfa26a3c4c1" />
 
 ## 🌟 Key Features
 
@@ -60,20 +61,6 @@ npm run build
 
 ```bash
 npm run preview
-```
-
----
-
-## 🚢 Deployment to Vercel
-
-1. Push your repository to GitHub.
-2. Log into [Vercel](https://vercel.com) and click **"Add New Project"**.
-3. Select your GitHub repository.
-4. Framework preset will be auto-detected as **Vite**.
-5. Build command: `npm run build` | Output directory: `dist`.
-6. Click **Deploy**.
-
-For detailed configuration, refer to [`VERCEL_SETUP.md`](./VERCEL_SETUP.md).
 
 ---
 
@@ -84,4 +71,3 @@ For detailed configuration, refer to [`VERCEL_SETUP.md`](./VERCEL_SETUP.md).
 - **Styling**: Tailwind CSS v4
 - **Icons**: Lucide React
 - **Animations & Effects**: Canvas Confetti, CSS Transitions
-- **Deployment**: Vercel SPA Ready (`vercel.json`)
