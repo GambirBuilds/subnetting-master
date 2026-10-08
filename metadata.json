@@ -1,0 +1,6 @@
+{
+  "name": "Subnetting Master",
+  "description": "Interactive IPv4 subnetting learning platform with visual binary analyzers, CIDR sliders, VLSM design labs, network repair simulations, and gamified challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
